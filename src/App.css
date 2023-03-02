@@ -1,0 +1,16 @@
+.MyApp{
+  padding: 10rem;
+}
+.MyApp input{
+  padding: .9rem;
+  width: 40%;
+}
+.add-data{
+  backface-visibility: hidden;
+}
+.second-div{
+  display: flex;
+}
+.data-container{
+  height: 170vh;
+}

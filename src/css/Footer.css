@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&family=Roboto:ital,wght@0,100;0,300;0,400;1,300&display=swap');
+.footer{
+  background-color: rgb(2, 2, 75);
+  height: 15vh;
+  color: white;
+  text-align: center;
+  letter-spacing: .5rem;
+  padding: 2rem;
+  font-family:'Poppins', sans-serif;
+}
